@@ -1,4 +1,6 @@
 ## reference: https://gitlab.com/nanuchi/techworld-js-docker-demo-app
+## reference youtube: https://www.youtube.com/watch?v=3c-iBn73dDE&t=1389s
+
 
 ## demo app - developing with Docker
 
